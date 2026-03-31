@@ -12,7 +12,7 @@ import WatchPage from "./Components/Watch/Watchpage";
 function App() {
   return (
     <Router>
-      <Routes>
+      <Routes basename="/Danial-Portfolio">
         <Route path="/" element={<HomePage />} />
         <Route path="/blog" element={<BlogPage />} />
         <Route path="/blog/:slug" element={<BlogPostPage />} />

@@ -7,7 +7,7 @@ import AboutTwo from "./Components/About/AboutTwo";
 import BlogPage from "./Components/Blog/BlogPage";
 import BlogPostPage from "./Components/Blog/BlogPost/BlogPostPage";
 import SupportPage from "./Components/Support/Support";
-import WatchPage from "./Components/Watch/Watchpage";
+import WatchPage from "./Components/Watch/WatchPage";
 
 function App() {
   return (
